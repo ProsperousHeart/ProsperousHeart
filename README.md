@@ -68,4 +68,4 @@ src="https://img.shields.io/github/followers/prosperousheart?logo=github&style=f
 
 <hr>
 
-Want your own README like this? [Check this out!](https://www.profileme.dev/)
+Want your own README like this one? [Check this out!](https://www.profileme.dev/)
