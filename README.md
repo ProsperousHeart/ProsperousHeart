@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kassandra Keeton
 ========================================================================================================================================
 
-Software Engineer & Solution Creator
+Developer Advocate, Software Engineer & Solution Creator
 ------------------------------------
 
 As a software developer and digital marketer, I have worn many hats. This has led me to begin teaching programming (efficient developers are needed) and digital marketing (everyone should learn how to leverage social media - even as an employee). I enjoy improving processes, making code more efficient, and collaborating with others to develop solutions to interesting problems.
